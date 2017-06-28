@@ -14,7 +14,7 @@ Sentence-Level Sentiment Analysis
 * [https://www.cs.york.ac.uk/semeval-2013/task2.html](https://www.cs.york.ac.uk/semeval-2013/task2.html)
 * 67% accuracy rate
 
-## Requirements
+## Prerequisites
 * tensorflow 1.2
 * ipyhton notebook
 
