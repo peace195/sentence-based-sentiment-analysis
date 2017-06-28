@@ -2,7 +2,7 @@
 Sentence-Level Sentiment Analysis
 
 ## Descriptions
-**One model to learn them all** (both language model and sentiment analysis)
+**One model to learn them all** (both language model and sentiment analysis -> sentiment2vec)
 ![alt text](https://raw.githubusercontent.com/peace195/Semeval2013/master/model.png)
 
 ## Version
