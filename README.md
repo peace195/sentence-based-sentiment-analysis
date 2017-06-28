@@ -1,4 +1,4 @@
-# Sentiment Analysis in Twitter
+# SemEval-2013: Sentiment Analysis in Twitter
 Sentence-Level Sentiment Analysis
 ## Descriptions
 ![alt text](https://raw.githubusercontent.com/peace195/Semeval2013/master/model.png)
