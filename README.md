@@ -5,3 +5,5 @@ Sentence-Level Sentiment Analysis
 ## Data
 [https://www.cs.york.ac.uk/semeval-2013/task2.html](https://www.cs.york.ac.uk/semeval-2013/task2.html)
 
+## Author
+**Binh Thanh Do**
