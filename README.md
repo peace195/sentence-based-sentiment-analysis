@@ -16,7 +16,7 @@ Sentence-Level Sentiment Analysis
 
 ## Prerequisites
 * tensorflow 1.2
-* ipyhton notebook
+* ipython notebook
 
 ## Author
 **Binh Thanh Do**
