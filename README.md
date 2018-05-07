@@ -19,4 +19,4 @@ Sentence-Level Sentiment Analysis
 * ipython notebook
 
 ## Author
-**Binh Thanh Do**
+**Binh Do**
